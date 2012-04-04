@@ -1,0 +1,2 @@
+in ajaxframe.js replace this line with a real location of the proxy.php file:
+AjaxFrame.proxy = 'http://igenie.local/proxy.php'; //may be overridden

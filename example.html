@@ -1,0 +1,11 @@
+<div id="ajaxframeSecond"><em>Loading...</em></div>
+<script>
+if(typeof AjaxFrame == 'undefined')
+    var AjaxFrame = {instances:[]};
+AjaxFrame.instances.push({
+    id:'foobarbax',
+    rootElement: document.getElementById('ajaxframeSecond'),
+    src:"http://www.google.com",
+    bookmarkable:true
+});
+</script>
