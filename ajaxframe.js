@@ -1,6 +1,6 @@
 /*******************************************************************************
   iGenie (code name: AjaxFrame)
-  Copyright 2009. Shepherd Interactive, LLC.  All Rights Reserved.
+  Copyright 2009. Heath Schweitzer Holdings, LLC.  All Rights Reserved.
 *******************************************************************************/
 
 /*
